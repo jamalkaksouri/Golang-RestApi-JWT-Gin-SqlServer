@@ -24,7 +24,7 @@
 
 Run the following steps:
 
-1. `https://github.com/Golang-RestApi-JWT-Gin-SqlServer`
+1. git clone `https://github.com/Golang-RestApi-JWT-Gin-SqlServer`
 2. `go install`
 3. Create a database named `GolangJWTDB` in SQLServer
 4. `go run main.go` Run the app in Dev mode.
