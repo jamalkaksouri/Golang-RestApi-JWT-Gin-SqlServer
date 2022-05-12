@@ -1,0 +1,8 @@
+@host = localhost:8080
+
+// Access a Secured API Endpoint
+GET http://{{host}}/api/secured/ping HTTP/1.1
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiZW1haWwiOiJqYW1hbC5rYWtzb3VyaUBnbWFpbC5jb20iLCJleHAiOjE2NTIyNzg5ODR9.muw_LLZ0bdSXgzcova98kjZAIpg3P4BHMgbSwDd5CKg
+
+###
