@@ -1,5 +1,7 @@
 # Simple REST API in Golang with JWT authentication & SQLServer
 
+![Untitled-1](https://user-images.githubusercontent.com/12379287/168052422-332f80bc-1a16-4f5e-a283-ff200cdb5814.png)
+
 ## Features
 
 - Implementing REST API in Golang with JWT authentication & SQLServer
